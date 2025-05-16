@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(47, 88%, 63%);
+}
+.id{
+    border: 1px black solid;
+    margin: auto;
+    width: 360px;
+    background-color: white;
+    height: 500pxs;
+    padding: 20px;
+    margin-top: 200px;
+    border-radius: 20px;
+    box-shadow: 10px 6px black;
+}
+.principal{
+    margin: auto;
+    border-radius: 20px;
+    width: 350px;
+  
+}
+#p1{
+    background-color: hsl(47, 88%, 63%);
+    font-weight: bolder;
+    padding: 4px 10px;
+    width: 65px;
+   
+    
+    
+}
